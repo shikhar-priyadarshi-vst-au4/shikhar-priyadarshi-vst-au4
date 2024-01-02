@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/shikhar4223"><img src="https://api.daily.dev/devcards/318886c9362b47499a630df6c8162b64.png?r=1k2" width="400" alt="Shikhar Priyadarshi's Dev Card"/></a>
 <!--
 **shikhar-priyadarshi-vst-au4/shikhar-priyadarshi-vst-au4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
